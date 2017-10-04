@@ -1,0 +1,12 @@
+\select@language {italian}
+\select@language {italian}
+\contentsline {section}{\numberline {1}Introduzione}{3}
+\contentsline {section}{\numberline {2}Cilindro infinito pressurizzato}{3}
+\contentsline {subsection}{\numberline {2.1}Cilindro finito pressurizzato}{4}
+\contentsline {subsection}{\numberline {2.2}Cilindro finito caricato sul bordo}{5}
+\contentsline {section}{\numberline {3}Calotta sferica pressurizzata soggetta al peso proprio}{6}
+\contentsline {subsection}{\numberline {3.1}Calotta sferica pressurizzata}{7}
+\contentsline {subsection}{\numberline {3.2}Calotta sferica soggetta al peso proprio}{8}
+\contentsline {subsection}{\numberline {3.3}Modi}{10}
+\contentsline {section}{\numberline {4}Calotta sferica con apertura polare soggetta a carico anulare sulla sommit\'a e peso proprio}{13}
+\contentsline {subsection}{\numberline {4.1}Modi}{15}
