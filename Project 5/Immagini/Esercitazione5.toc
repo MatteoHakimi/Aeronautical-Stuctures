@@ -1,0 +1,5 @@
+\select@language {italian}
+\select@language {italian}
+\contentsline {section}{\numberline {1}Introduzione}{3}
+\contentsline {section}{\numberline {2}Piastra rettangolare pressocompressa}{3}
+\contentsline {section}{\numberline {3}Cilindro caricato in punta}{7}
